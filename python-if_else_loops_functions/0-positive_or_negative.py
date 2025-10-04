@@ -7,3 +7,4 @@ elif number < 0:
         print('%d is negative'%number)
 elif number == 0:
         print('%d is zero'%number)
+        
